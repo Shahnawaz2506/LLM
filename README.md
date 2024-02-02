@@ -1,2 +1,2 @@
 # LLM
-This repo contains ny experiments with LLM models
+This repo contains my experiments with LLM models
